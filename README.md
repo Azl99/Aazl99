@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alizee</h1>
-<h3 align="center">I'm a newbie in Tech as Junior Engineer MLOPS</h3>
+<h3 align="center">I'm a newbie in Tech as Junior Engineer</h3>
 
 ![Cahier De Dessin](https://github.com/user-attachments/assets/3757bcda-3fc3-4099-a5d9-1b26d21539ef)
 
